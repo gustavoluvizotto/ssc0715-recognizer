@@ -1,0 +1,1 @@
+Projeto pedido na disciplina de Sensores Inteligentes para processar um vídeo capturado de uma nuvem de pontos do sensor kinect. As mãos devem ser seguidas e imprimir as coordenadas das mesmas em um arquivo.
